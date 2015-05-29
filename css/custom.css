@@ -1,0 +1,26 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/* custom css for FLight*/
+/* Author :Jargan76 Studio  */
+
+.merchant-header {
+	  background-image: url(https://unsplash.imgix.net/39/yvDPJ8ZSmSVob7pRxIvU_IMG_40322.jpg?fit=crop&fm=jpg&h=700&q=75&w=1050);
+}
+
+.store-tally {
+	color: #ffffff;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer {
+	background-color: #7ab55c;
+	width: 100%;
+	
+}
+
+.segment-heading {
+	color: red;
+}
