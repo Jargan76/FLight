@@ -3,13 +3,8 @@
 /* custom css for FLight*/
 /* Author :Jargan76 Studio  */
 
-.merchant-header {
-	  background-image: url(https://unsplash.imgix.net/39/yvDPJ8ZSmSVob7pRxIvU_IMG_40322.jpg?fit=crop&fm=jpg&h=700&q=75&w=1050);
-}
 
-.store-tally {
-	color: #ffffff;
-}
+
 
 h2 {
 	text-align: center;
@@ -18,9 +13,85 @@ h2 {
 footer {
 	background-color: #7ab55c;
 	width: 100%;
+	text-align: center;
+}
+
+
+
+.segment-everywhere .segment-heading {
+    color: rgb (51, 51, 51);
+}	
+
+.merchant-header {                       /* image provided by unsplash.com Thank you */
+	background-image: url(https://unsplash.imgix.net/39/yvDPJ8ZSmSVob7pRxIvU_IMG_40322.jpg?fit=crop&fm=jpg&h=700&q=75&w=1050);
+}
+
+.merchant-header_signup {
 	
 }
 
-.segment-heading {
-	color: red;
+.segment-block {
+	background-color: red;
 }
+
+.store-tally {
+	color: #ffffff;
+	margin-left: 25px;
+}
+
+FLight_png {
+	float: right;
+}
+
+#about_style {
+	font-size: 1.5em;
+}
+
+#flight_png {
+	 position: absolute;
+	 left: 85%;
+     height: 350px;
+     width: 175px;
+
+}
+
+
+     @media (max-width: 991px) { 
+	 
+#flight_png {
+	 position: absolute;
+	 top:45%;
+	 left: 85%;
+     height: 350px;
+     width: 175px;
+    }	 
+	 
+ 
+}	 
+	 
+	 
+	 @media (max-width: 749px) {
+#flight_png {
+	 position: absolute;
+	 top: 60%;
+	 left: 1%;
+     height: 350px;
+     width: 175px;
+	}
+	 
+} 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+
+  /*-- WOW .29 lighters really suck....but for 1.99 you can a FLight.--*/
